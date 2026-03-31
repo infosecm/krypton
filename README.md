@@ -21,7 +21,7 @@
   - [Historical — 19th Century](#historical--19th-century)
   - [Historical — World War I](#historical--world-war-i)
   - [Historical — World War II](#historical--world-war-ii)
-  - [Historical — Early 20th Century](#historical--other-20th-century-ciphers)
+  - [Historical — Other 20th Century Ciphers](#historical--other-20th-century-ciphers)
   - [Modern Stream Ciphers (pure C)](#modern-stream-ciphers-pure-c)
   - [Modern Stream Ciphers (OpenSSL)](#modern-stream-ciphers-openssl)
   - [Legacy Block Ciphers (OpenSSL)](#legacy-block-ciphers-openssl)
