@@ -1,3 +1,5 @@
+![krypton project logo](krypton.png)
+
 # krypton
 
 **A multi-method file encryption, decryption, and hashing tool written in C.**
