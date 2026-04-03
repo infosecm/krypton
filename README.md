@@ -2,6 +2,13 @@
 
 # krypton
 
+[![Language: C](https://img.shields.io/badge/language-C-blue.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Standard: C99](https://img.shields.io/badge/standard-C99-blue.svg)](https://en.wikipedia.org/wiki/C99)
+[![OpenSSL](https://img.shields.io/badge/OpenSSL-3.x-red.svg?logo=openssl&logoColor=white)](https://www.openssl.org/)
+[![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey.svg?logo=linux&logoColor=white)](https://github.com/infosecm/krypton)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=infosecm_krypton&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=infosecm_krypton)
+
 **A multi-method file encryption, decryption, and hashing tool written in C.**
 
 `krypton` supports 38 cipher methods spanning 2,600 years of cryptographic history — from the Spartan scytale of 600 BC to authenticated AES-GCM — as well as 11 one-way hash algorithms. It operates on any file type (text, binary, PDF, images, archives) and has zero dependencies beyond OpenSSL for its modern cipher backends.
