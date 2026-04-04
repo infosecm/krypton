@@ -1,4 +1,4 @@
-![krypton project logo](krypton.png)
+![krypton project logo](krypton_logo.png)
 
 # krypton
 
