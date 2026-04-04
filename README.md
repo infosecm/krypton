@@ -1,5 +1,4 @@
 ![Krypton Project Logo](krypton_logo.png)
-
 # krypton
 
 [![Language: C](https://img.shields.io/badge/language-C-blue.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
