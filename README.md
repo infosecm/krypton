@@ -1,5 +1,5 @@
 ![Krypton Project Logo](krypton_logo.png)
-<img src="krypton_logo.png" alt="Alt Text" style="width:50%; height:auto;">
+<img src="krypton_logo.png" alt="Alt Text" style="width:100%; height:auto;">
 
 # krypton
 
